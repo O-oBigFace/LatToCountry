@@ -1,7 +1,7 @@
 p = {
     "proxyHost": "proxy.crawlera.com",
     "proxyPort": "8010",
-    "proxyAuth": "78d4b6f49900465f881f63b4b1de4029:"
+    "proxyAuth": "4181f1829ce5445eb9ce3fdf1ffe507a:"
 }
 
 proxy_auth = p['proxyHost']

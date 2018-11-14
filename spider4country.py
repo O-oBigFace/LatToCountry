@@ -43,6 +43,7 @@ if __name__ == '__main__':
                     loc_info = toCountry(keys)
                     with open(file_res, "w", encoding="utf-8") as fw:
                         fw.write(loc_info)
+                    print("-------------%s-------------")
                     break
                 except Exception as e:
                     print(k, str(e))
