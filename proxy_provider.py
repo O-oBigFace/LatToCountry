@@ -10,6 +10,6 @@ proxy_port = p['proxyPort']
 
 
 def get_proxy():
-    # return {"https": "https://{}@{}:{}/".format(proxy_auth, proxy_host, proxy_port),
-    #         "http": "http://{}@{}:{}/".format(proxy_auth, proxy_host, proxy_port)}
-    return {'http': 'socks5://127.0.0.1', 'https': 'socks5://127.0.0.1'}
+    return {"https": "https://{}@{}:{}/".format(proxy_auth, proxy_host, proxy_port),
+            "http": "http://{}@{}:{}/".format(proxy_auth, proxy_host, proxy_port)}
+    # return {'http': 'socks5://127.0.0.1', 'https': 'socks5://127.0.0.1'}
