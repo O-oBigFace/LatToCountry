@@ -1,0 +1,323 @@
+{
+   "plus_code" : {
+      "compound_code" : "MVH7+8Q Nadiad, Gujarat, India",
+      "global_code" : "7JJJMVH7+8Q"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gokul Dham Society",
+               "short_name" : "Gokul Dham Society",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Indira Nagar",
+               "short_name" : "Indira Nagar",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Nadiad",
+               "short_name" : "Nadiad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kheda",
+               "short_name" : "Kheda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "387002",
+               "short_name" : "387002",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Gokul Dham Society, Indira Nagar, Nadiad, Gujarat 387002, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.6785102,
+                  "lng" : 72.8644104
+               },
+               "southwest" : {
+                  "lat" : 22.6781433,
+                  "lng" : 72.8641257
+               }
+            },
+            "location" : {
+               "lat" : 22.6783268,
+               "lng" : 72.86426800000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.6796757302915,
+                  "lng" : 72.8656170302915
+               },
+               "southwest" : {
+                  "lat" : 22.6769777697085,
+                  "lng" : 72.8629190697085
+               }
+            }
+         },
+         "place_id" : "ChIJ7w3UxeJaXjkRhFDMW9F_OYM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "387001",
+               "short_name" : "387001",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Kheda",
+               "short_name" : "Kheda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gujarat 387001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.7016871,
+                  "lng" : 72.9044643
+               },
+               "southwest" : {
+                  "lat" : 22.6649366,
+                  "lng" : 72.8272181
+               }
+            },
+            "location" : {
+               "lat" : 22.6877611,
+               "lng" : 72.8810859
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.7016871,
+                  "lng" : 72.9044643
+               },
+               "southwest" : {
+                  "lat" : 22.6649366,
+                  "lng" : 72.8272181
+               }
+            }
+         },
+         "place_id" : "ChIJn_RvExtbXjkRZdpBoslKfa0",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nadiad",
+               "short_name" : "Nadiad",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kheda",
+               "short_name" : "Kheda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nadiad, Gujarat, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.729492,
+                  "lng" : 72.89265619999999
+               },
+               "southwest" : {
+                  "lat" : 22.6621357,
+                  "lng" : 72.8247963
+               }
+            },
+            "location" : {
+               "lat" : 22.6915853,
+               "lng" : 72.86336349999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.729492,
+                  "lng" : 72.89265619999999
+               },
+               "southwest" : {
+                  "lat" : 22.6621357,
+                  "lng" : 72.8247963
+               }
+            }
+         },
+         "place_id" : "ChIJVSwkCwZbXjkRCE405YPTFcQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kheda",
+               "short_name" : "Kheda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kheda, Gujarat, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.20523,
+                  "lng" : 73.4144799
+               },
+               "southwest" : {
+                  "lat" : 22.50008,
+                  "lng" : 72.50238
+               }
+            },
+            "location" : {
+               "lat" : 22.9250506,
+               "lng" : 72.99329689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.20523,
+                  "lng" : 73.4144799
+               },
+               "southwest" : {
+                  "lat" : 22.50008,
+                  "lng" : 72.50238
+               }
+            }
+         },
+         "place_id" : "ChIJDdxyUaL1XjkR9-3AP7O6K3E",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gujarat",
+               "short_name" : "GJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gujarat, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.705709,
+                  "lng" : 74.4764881
+               },
+               "southwest" : {
+                  "lat" : 20.127954,
+                  "lng" : 68.162834
+               }
+            },
+            "location" : {
+               "lat" : 22.258652,
+               "lng" : 71.1923805
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.705709,
+                  "lng" : 74.4764881
+               },
+               "southwest" : {
+                  "lat" : 20.127954,
+                  "lng" : 68.162834
+               }
+            }
+         },
+         "place_id" : "ChIJlfcOXx8FWTkRLlJU7YfYG4Y",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            },
+            "location" : {
+               "lat" : 20.593684,
+               "lng" : 78.96288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.513327,
+                  "lng" : 97.39535869999999
+               },
+               "southwest" : {
+                  "lat" : 6.4626999,
+                  "lng" : 68.1097
+               }
+            }
+         },
+         "place_id" : "ChIJkbeSa_BfYzARphNChaFPjNc",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
